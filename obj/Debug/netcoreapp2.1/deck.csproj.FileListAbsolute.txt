@@ -1,0 +1,11 @@
+C:\Users\zach\Desktop\Csharp\deck\bin\Debug\netcoreapp2.1\deck.deps.json
+C:\Users\zach\Desktop\Csharp\deck\bin\Debug\netcoreapp2.1\deck.runtimeconfig.json
+C:\Users\zach\Desktop\Csharp\deck\bin\Debug\netcoreapp2.1\deck.runtimeconfig.dev.json
+C:\Users\zach\Desktop\Csharp\deck\bin\Debug\netcoreapp2.1\deck.dll
+C:\Users\zach\Desktop\Csharp\deck\bin\Debug\netcoreapp2.1\deck.pdb
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.csprojAssemblyReference.cache
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.csproj.CoreCompileInputs.cache
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.AssemblyInfoInputs.cache
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.AssemblyInfo.cs
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.dll
+C:\Users\zach\Desktop\Csharp\deck\obj\Debug\netcoreapp2.1\deck.pdb
